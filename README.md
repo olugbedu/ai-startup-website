@@ -20,3 +20,4 @@ Evidence of collaborative workflows with multiple branches and corresponding com
 ![](./assets/pull-update-navigation-branch.png)
 ![](./assets/add-contact-info-branch.png)
 ![](./assets/git-first-commit.png)
+
